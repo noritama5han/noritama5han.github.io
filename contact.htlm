@@ -16,7 +16,7 @@
     <body>
         <div id="contact" class="big-bg">
             <header class="page-header wrapper">
-                <h1><a href="index.html"><img class="logo" src="images/logo.png" alt="A Watanabe Portfolio ホーム"></a></h1>
+                <h1><a href="index.html"><img class="logo" src="https://github.com/noritama5han/noritama5han.github.io/blob/main/logo.png?raw=true" alt="A Watanabe Portfolio ホーム"></a></h1>
                 <nav>
                     <ul class="main-nav">
                         <li><a href="profile.html">Profile</a></li>
